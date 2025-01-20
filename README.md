@@ -1,2 +1,2 @@
-# Mi-primer-repositorio-de-GitHub
+# Mi primer README
 Aprendiendo a usar GutHub
